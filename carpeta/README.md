@@ -3,3 +3,4 @@
 ## Datos Personales
 
 - **Nombre**: Grecia Lorena Morales Castillo
+- **Edad**: 20 años
