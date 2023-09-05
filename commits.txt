@@ -1,0 +1,23 @@
+*   4f4039c fusionando cambios manualmente
+|\  
+| * 79b453b Agregando enlace script.js en el index.html
+* | 49603f6 creando link a hoja de estilos
+* |   b8cdd71 Merge branch 'js'
+|\ \  
+| * | cb5bb78 Creando archivo js
+* | |   c04190d Merge branch 'css'
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 113c3f1 agregando css
+| |/  
+* / d3e95b1 creando index en rama html
+|/  
+* 6710ae4 Agregando enlace y contenido de la Práctica 5
+* 33cedd5 Licencia2
+* 026f1b8 Licencia
+* b356bd2 Creando archivo .gitignore
+* 0a622ff agregando mi foto
+* 6fbf8a3 agregando mi edad
+* 3d95e18 Primer commit
+* 918d3c2 Primer commit
