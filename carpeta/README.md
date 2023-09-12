@@ -4,7 +4,7 @@
 
 - **Nombre**: Grecia Lorena Morales Castillo
 - **Edad**: 20 años
-![Greys](/carpeta/img/greys.jpg)
+- ![Greys](/carpeta/img/greys.jpg)
 
 Enlace al cuestionario de la Práctica 5 ![practica5](/carpeta/practica-5.md)
 
@@ -35,3 +35,5 @@ Enlace al cuestionario de la Práctica 5 ![practica5](/carpeta/practica-5.md)
 **Inglés Técnico Para Videojuegos III**
 - **Profesora**: Angie
 - Aprendizaje de inglés, mejorar vocabulario, gramática, lenguaje.
+
+Agregadndo un cambio 12 septiembre 2023
