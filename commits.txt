@@ -1,23 +1,181 @@
-*   4f4039c fusionando cambios manualmente
-|\  
-| * 79b453b Agregando enlace script.js en el index.html
-* | 49603f6 creando link a hoja de estilos
-* |   b8cdd71 Merge branch 'js'
-|\ \  
-| * | cb5bb78 Creando archivo js
-* | |   c04190d Merge branch 'css'
-|\ \ \  
-| |_|/  
-|/| |   
-| * | 113c3f1 agregando css
-| |/  
-* / d3e95b1 creando index en rama html
-|/  
-* 6710ae4 Agregando enlace y contenido de la Práctica 5
-* 33cedd5 Licencia2
-* 026f1b8 Licencia
-* b356bd2 Creando archivo .gitignore
-* 0a622ff agregando mi foto
-* 6fbf8a3 agregando mi edad
-* 3d95e18 Primer commit
-* 918d3c2 Primer commit
+commit e60d2b63e446b57b68e679d20a55fe40b733d88e
+Author: Grecia Lorena Morales Castillo <cdmx2510@amerike.edu.mx>
+Date:   Tue Sep 12 12:19:21 2023 -0600
+
+    v1.0.0
+
+commit 54188660ccd6227bf8f29fe064cb9f9db958f8ef
+Author: Grecia Lorena Morales Castillo <cdmx2510@amerike.edu.mx>
+Date:   Tue Sep 12 12:04:19 2023 -0600
+
+    Agregando contenido nuevo en readme.md
+
+commit ac7318becae8f0811a4a56d42d898d2a65d9a4e8
+Merge: 5c0fdcb 8e588d9
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 13:26:55 2023 -0600
+
+    Ingles Técnico
+
+commit 5c0fdcb3bebef4d339801225d804913af579802c
+Merge: b82720f ed9ad67
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 13:25:57 2023 -0600
+
+    cuarto merge
+
+commit b82720f3e8f56c70dd498a6535f527bb84adb7ce
+Merge: 835f916 d67bad8
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 13:24:56 2023 -0600
+
+    tercer merge
+
+commit 835f916651e2551d2d41d53e20cd02e276b20f78
+Merge: 76fed39 2bad460
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 13:23:54 2023 -0600
+
+    segundo merge
+
+commit 76fed395202689fecdfbcaedd0b80007018fa21d
+Merge: f586af2 6b2d66d
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 13:22:28 2023 -0600
+
+    primer merge
+
+commit 8e588d9c3d7512318544682010989b049a9eb286
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 13:15:25 2023 -0600
+
+    Inglés Técnico
+
+commit 2bad4609d95b520936af0759d975b4764cb8f07d
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 13:12:31 2023 -0600
+
+    Sistemas Operativos y Redes
+
+commit ed9ad6748e11175f5a7bf851135203ab08ac721b
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 13:09:18 2023 -0600
+
+    Proyecto Semestral
+
+commit d67bad84781b74a8e2781046f2163e6c20b960e9
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 13:06:47 2023 -0600
+
+    Programación En Lenguajes Interpretados
+
+commit f586af24148fd9d43cd08cf992d93ff84d0ea285
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 13:03:25 2023 -0600
+
+    Principios de Composición y Diseño
+
+commit 6b2d66ddd7a6206dec529075fcf75553a784bc71
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 13:00:12 2023 -0600
+
+    Diseño de juegos
+
+commit 4f4039c0bb165edda718b65ae6ed7416cda1cc02
+Merge: 49603f6 79b453b
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 12:27:03 2023 -0600
+
+    fusionando cambios manualmente
+
+commit 79b453be24080b4afc8e06bca36a65ed9c651ec3
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 12:16:55 2023 -0600
+
+    Agregando enlace script.js en el index.html
+
+commit 49603f677c2213ab60e2f2c8583299f74feae115
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 12:14:54 2023 -0600
+
+    creando link a hoja de estilos
+
+commit b8cdd71297574350c9632789244fa8d5ca214a61
+Merge: c04190d cb5bb78
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 12:11:52 2023 -0600
+
+    Merge branch 'js'
+
+commit c04190dab97a2077c7350f9aeeda29637de77e7c
+Merge: d3e95b1 113c3f1
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 12:09:42 2023 -0600
+
+    Merge branch 'css'
+
+commit cb5bb7892a64fb009743ba2339ad1ec92063a49f
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 12:05:35 2023 -0600
+
+    Creando archivo js
+
+commit 113c3f1aaeee5bea390e7f902bc0387f853ea653
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 12:00:44 2023 -0600
+
+    agregando css
+
+commit d3e95b1a582c3e4014e3d7750a2c5f37c8da288a
+Author: Greyslor <118229351+Greyslor@users.noreply.github.com>
+Date:   Tue Sep 5 11:59:39 2023 -0600
+
+    creando index en rama html
+
+commit 6710ae4800c06208dd49f1f332e77456fddf640f
+Author: Grecia Lorena <cdmx2510@amerike.edu.mx>
+Date:   Thu Aug 31 10:22:47 2023 -0600
+
+    Agregando enlace y contenido de la Práctica 5
+
+commit 33cedd5710f477ac51bca828cb765cea3c013754
+Author: Grecia Lorena <cdmx2510@amerike.edu.mx>
+Date:   Thu Aug 31 10:07:50 2023 -0600
+
+    Licencia2
+
+commit 026f1b8d0e3a4a7f063a4ec2e834364236592dda
+Author: Grecia Lorena <cdmx2510@amerike.edu.mx>
+Date:   Thu Aug 31 10:03:14 2023 -0600
+
+    Licencia
+
+commit b356bd22dfbd2181bd8ca35b86fbcf73a4624d18
+Author: Grecia Lorena <cdmx2510@amerike.edu.mx>
+Date:   Tue Aug 29 23:02:34 2023 -0600
+
+    Creando archivo .gitignore
+
+commit 0a622ffdf01705310dd35d5064a3b6c3db7777a4
+Author: Grecia Lorena <cdmx2510@amerike.edu.mx>
+Date:   Tue Aug 29 12:25:18 2023 -0600
+
+    agregando mi foto
+
+commit 6fbf8a378190b7d22cf1148413a92c2983dbcd62
+Author: Grecia Lorena <cdmx2510@amerike.edu.mx>
+Date:   Tue Aug 29 12:22:40 2023 -0600
+
+    agregando mi edad
+
+commit 3d95e185d0baeed38d8429c0375d87039229d76d
+Author: Grecia Lorena <cdmx2510@amerike.edu.mx>
+Date:   Tue Aug 29 12:17:37 2023 -0600
+
+    Primer commit
+
+commit 918d3c2014a8c909b09c8c3f71c2903e0499d82c
+Author: Grecia Lorena <cdmx2510@amerike.edu.mx>
+Date:   Tue Aug 29 12:16:04 2023 -0600
+
+    Primer commit
